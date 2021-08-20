@@ -1,0 +1,32 @@
+body{
+
+    margin: 0;
+    padding: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+body :hover{
+    background-color: #d4c6c6;
+}
+.footer{
+    width: 50%;
+    height: 80vh;
+    background-color: #343434;
+    margin: 30px;
+}
+.footer button{
+    align-items: flex-end;
+    float: right;
+    margin-top: 400px;
+    padding-right: 10px;
+    margin-right: 20px;
+    
+}
+#tableData{
+    color: rgb(211, 230, 222);
+    background-color: #79becf;
+}
+
+table :hover{
+    background-color: #343434;
+}

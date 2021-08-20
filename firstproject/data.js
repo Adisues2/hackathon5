@@ -1,0 +1,4 @@
+const employees = {}
+const clients = {
+    {}
+}

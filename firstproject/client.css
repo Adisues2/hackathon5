@@ -1,0 +1,65 @@
+
+body{
+    margin: 0;
+    padding: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.footer{
+    width: 50%;
+    height: 80vh;
+    background-color: #343434;
+    margin: 30px;
+}
+.footer button{
+    align-items: flex-end;
+    float: right;
+    margin-top: 400px;
+    padding-right: 10px;
+    margin-right: 20px;
+    
+}
+.footer:hover{
+ transition: 0.30s;
+ background-color: rgba(183, 202, 165, 0.667);
+}
+
+#table{
+    
+     
+    /* background-color: white; */
+    align-items: center;
+    
+    padding: 10px;
+    justify-content: space-around;
+    display: inline-block;
+    text-align: center;
+    text-overflow:clip ;
+    line-height: 1em;
+    color: ghostwhite;
+    list-style: none;
+}
+
+#table input{
+    
+    width: 300px;
+    margin: 4px;
+    margin-left: 150px;
+}
+#tableData th, #tableData td{
+  width: 90%;
+    padding: 13px;
+  
+}
+#tableData{
+    width: 300px;
+    align-items: center;
+}
+
+table{
+    padding: 10px;
+}
+#tableData{
+    color: rgb(179, 92, 164);
+    background-color: #8fc78f;
+}
